@@ -1,1 +1,1 @@
-# data-driven-astronomy
+Exercises for 'Data-driven Astronomy' course on Coursera
